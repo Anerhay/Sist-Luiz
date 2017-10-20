@@ -6,7 +6,7 @@ IDEIA: A ideia seria um aplicativo ou até mesmo um site, onde as pessoas saberi
 
 REQUISITOS FUNCIONAIS
 
-* Longin ( seu nome, ou email) botão - entrar. 
+* Login ( seu nome, ou email) botão - entrar. 
 * cadastro(nome,cidade, país, estado,cep,criar senha , confirmar senha ,criar cadastro) e perfil criado.
 * Informações do site: o que ele proporciona , pra que serve.
 * videos informativos : médicos explicando, depoimento de pessoas, etc.
