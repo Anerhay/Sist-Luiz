@@ -1,52 +1,59 @@
 AppS
 alimento
 
-IDEIA: A ideia seria um aplicativo ou até mesmo um site, onde as pessoas saberiam os problemas relacionados a saúde no mundo. Nele teria informações sobre as " doenças do momento" na sua cidade , no seu país e também se estivesse tendo uma doença em outros países. Receberiam dicas, videos informativos, médicos e cientistas online falando sobre um determinado problema, tiraria duvidas das pessoas.Teria também informações sobre alimentação .
+IDEIA: A ideia seria um aplicativo ou até mesmo um site, onde as pessoas saberiam os problemas relacionados a saúde no mundo.
+Nele teria informações sobre as " doenças do momento" na sua cidade , no seu país e também se estivesse tendo uma doença
+em outros países. Receberiam dicas, videos informativos, médicos e cientistas online falando sobre um determinado problema,
+tiraria duvidas das pessoas.Teria também informações sobre alimentação .
 
 
 REQUISITOS FUNCIONAIS
 
 * Login ( seu nome, ou email) botão - entrar. 
-* cadastro(nome,cidade, país, estado,cep,criar senha , confirmar senha ,criar cadastro) e perfil criado.
+* cadastro(nome, cidade, país, estado,cep, criar senha, confirmar senha, criar cadastro) e perfil criado.
 * Informações do site: o que ele proporciona , pra que serve.
 * videos informativos : médicos explicando, depoimento de pessoas, etc.
 * fotos: que ajudaria na hora de falar sobre um determinado assunto.
-* menu: perfil,configurações , ajuda ,conta, sair.
-* guia: com videos , fotos, medicos online no bate papo , etc.
+* menu: perfil, configurações, ajuda,conta, sair.
+* guia: com videos, fotos, medicos online no bate papo, etc.
 * logotipo do site e seu nome.
+
+
+Cadrasto do Médico
+* Digitar o crm;
+* Idade;
+* cidade, estado, país; 
+* criar senhar, configurar senha; 
+* criar cadasto;
+* perfil criado.
+
+*O usuário(médico) poderá mandar convite para outros médicos se cadastrar e fazer parte do site e 
+ esse médico que recebe o convite e faz o cadastro terá a mesma visualização do site do usuário que lhe mandou o convite.  
+
+Cadastro do Paciente 
+* Nome completo;
+* Cidade, país, estado, cep;
+* Criar senha; 
+* Confirmar senha; 
+* Criar cadastro e perfil criado.
+
+Vizualização do Site 
+* Para o médico:
+* Aparecerá o site o site igual para o paciente, mais o médico terá um menu para fazer suas publicações, bate papo,
+(talvez o compartilhamento em outras redes sociais),etc.
+
+*Paciente: 
+* Aparecerá o site igual para o médico se ele quiser publicar algo, terá que pedir uma permissão .
+* O usuário poderá dar sugestões sobre um determinado assunto relacionado ao que é tratado no site.
+* (Compartilhar, curtir, comentar)--SUGESTÃO
 
 
 REQUISITOS NÃO- FUNCIONAIS
 
 * Aplicativo usado para a criação do site
-* Nos requisitos funcionais preicso informar a função de cada usuário (médico paciente) no site.
+* Nos requisitos funcionais preciso informar a função de cada usuário (médico ou paciente) no site.
 
-
-OUTROS REQUISITOS FUNCIONAIS
-
-Cadrasto do Médico
-* Digitar o crm
-* Idade
-* cidade , estado , país 
-* criar senhar , configurar senha 
-* criar cadasto
-* perfil criado .
-
-Cadastro do Paciente 
-* Nome
-* Cidade , país, estado , cep
-* Criar senha 
-* Confirmar senha 
-* Criar cadastro e perfil criado 
-
-Vizualização do Site 
-* Para o médico: aparecerá o site o site igual para o paciente , mais o médico terá um menu para fazer suas publicações .
-
-Paciente 
-* Aparecerá o site igual para o médico se ele quiser publicar algo, terá que pedir uma permissão . Mas ele poderá caminhar, sugerir normalmente 
-
-
-
-
-
-
+OUTRAS SUGESTÕES:
+-- O MÉDICO PODERÁ CRIAR PÁGINAS (PORÉM ELE TERÁ QUE PEDIR PERMISSÃO AO "CONTROLADOR" DO SITE PARA QUE SEJA PUBLICADA). 
+O USUÁRIO (PACIENTE) TAMBÉM PODERÁ FAZER.
+-- AS PESSOAS PODERÃO COMPARTILHAR CONTEÚDO EM OUTRAS REDES SOCIAIS COMO: FACEBOOK, TWITTER.
